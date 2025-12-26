@@ -1,0 +1,201 @@
+ProviderID,ProviderName,NPI_Number_Input,PracticeAddress_Input,PracticePhone_Input,PrimarySpecialty_Input,StateLicense_Input,LicenseExpirationDate_Input,Source_Input
+1,Dr. David Johnson,1567162636,"922 Smith St, Philadelphia, PA 50839",(832) 145-9055,Family Practice,CA849017,2027-09-22,Synthetic-Directory
+2,Dr. Michael Miller,7807965578,"871 Smith Ave, Los Angeles, TX 43959",(112) 320-9968,Dermatology,CA694464,2027-02-19,Synthetic-Directory
+3,Dr. Andrew Miller,8315984253,"812 Williams Pkwy, Philadelphia, TX 80648",(990) 648-4914,Dermatology,CA421961,2028-01-23,Synthetic-Directory
+4,Dr. Maria Jones,2970264700,"661 Davis Pkwy, Phoenix, NY 29788",(294) 689-2114,Family Practice,CA842725,2027-06-22,Synthetic-Directory
+5,Dr. Maria Smith,6667058875,"210 Johnson Ave, New York, NY 11557",(240) 337-5213,Orthopedics,CA304662,2027-11-22,Synthetic-Directory
+6,Dr. Michael Brown,8712459066,"445 Johnson Rd, Los Angeles, NY 41373",(925) 597-6109,Orthopedics,CA682491,2028-02-26,Synthetic-Directory
+7,Dr. Michael Johnson,6888364714,"957 Brown Ave, Los Angeles, IL 84745",(858) 297-3282,,CA681050,2027-01-07,Synthetic-Directory
+8,Dr. David Jones,1767075746,"942 Williams Rd, New York, CA 32876",555-548-6848,Dermatology,CA975321,2027-02-18,Synthetic-Directory
+9,Dr. Robert Brown,8133085274,"376 Johnson Ave, Phoenix, AZ 96087",555-336-1544,Cardiology,CA392855,2027-09-24,Synthetic-Directory
+10,Dr. Sarah Williams,6124131817,"328 Garcia Ln, Philadelphia, CA 16559",(885) 391-9349,Orthopedics,CA394897,2025-03-07,Synthetic-Directory
+11,Dr. Michael Jones,5637582632,"153 Williams Rd, Chicago, PA 70760",555-427-8987,Cardiology,CA776343,2027-01-10,Synthetic-Directory
+12,Dr. Jane Williams,7770639942,"862 Smith Pkwy, Phoenix, IL 83609",(730) 968-6831,Family Practice,CA993983,2025-10-15,Synthetic-Directory
+13,Dr. Maria Johnson,7971135107,"663 Brown St, Chicago, AZ 30057",(383) 987-1670,Dermatology,CA723951,2027-12-16,Synthetic-Directory
+14,Dr. Robert Rodriguez,6832072541,"180 Miller Ln, Chicago, TX 71119",555-838-9184,Orthopedics,CA821457,2027-05-09,Synthetic-Directory
+15,Dr. Jane Smith,9819600924,"788 Williams Pkwy, Los Angeles, AZ 84089",(103) 449-9521,Dermatology,CA147326,2027-08-09,Synthetic-Directory
+16,Dr. Andrew Williams,1954259303,"169 Garcia St, Houston, IL 82723",(330) 697-4001,Dermatology,CA745909,2027-09-01,Synthetic-Directory
+17,Dr. Michael Rodriguez,3288033255,"277 Johnson Ln, Houston, IL 21593",(491) 690-2828,Dermatology,CA166579,2026-09-27,Synthetic-Directory
+18,Dr. Michael Rodriguez,8422989414,"171 Wilson Ln, New York, TX 34673",(776) 714-3310,Cardiology,CA833488,2027-07-24,Synthetic-Directory
+19,Dr. William Williams,7161185167,"947 Jones Ln, Los Angeles, IL 55237",555-284-6058,,CA653919,2027-11-23,Synthetic-Directory
+20,Dr. Robert Rodriguez,6587578791,"300 Smith St, Phoenix, TX 55676",(120) 201-3404,Internal Medicine,CA784479,2025-09-12,Synthetic-Directory
+21,Dr. Jane Davis,9652753056,"336 Smith St, Los Angeles, IL 22560",(559) 228-3485,Internal Medicine,CA682486,2026-11-21,Synthetic-Directory
+22,Dr. Michael Johnson,4003559448,"721 Smith Pkwy, New York, AZ 16380",(311) 820-4869,Internal Medicine,CA129862,2025-02-24,Synthetic-Directory
+23,Dr. Michael Jones,6647775866,"813 Brown Ln, Phoenix, CA 75534",(472) 660-4179,Cardiology,CA785334,2025-02-19,Synthetic-Directory
+24,Dr. Andrew Brown,1869438364,"610 Jones Pkwy, Los Angeles, IL 91217",555-558-1286,Pediatrics,CA212628,2027-07-08,Synthetic-Directory
+25,Dr. Michael Smith,1370935165,"354 Johnson Ave, Philadelphia, PA 79722",555-167-6609,Pediatrics,CA943556,2025-12-02,Synthetic-Directory
+26,Dr. Jessica Davis,5945386102,"482 Garcia Ln, Philadelphia, NY 56868",(405) 693-4968,Cardiology,CA549082,2027-01-22,Synthetic-Directory
+27,Dr. Sarah Brown,5716230540,"195 Davis Ln, Phoenix, CA 14844",(529) 150-8868,Orthopedics,CA584336,2025-09-22,Synthetic-Directory
+28,Dr. Robert Davis,2936983623,"353 Rodriguez Pkwy, Philadelphia, TX 90375",(685) 941-5703,Cardiology,CA837549,2025-01-10,Synthetic-Directory
+29,Dr. Sarah Garcia,3859252465,"268 Davis Pkwy, Chicago, TX 50831",(456) 880-7269,Cardiology,CA507210,2027-01-28,Synthetic-Directory
+30,Dr. Robert Jones,5783760793,"443 Miller Ln, Houston, NY 61666",(904) 457-2716,Cardiology,CA435465,2025-05-03,Synthetic-Directory
+31,Dr. Maria Rodriguez,5721963158,"703 Johnson St, New York, PA 76538",555-304-2256,Internal Medicine,CA339027,2027-04-10,Synthetic-Directory
+32,Dr. Sarah Smith,371923939,"683 Williams Rd, Phoenix, PA 58865",(391) 412-9239,Pediatrics,CA500217,2025-03-02,Synthetic-Directory
+33,Dr. Andrew Miller,9746223652,"839 Smith St, Houston, IL 10637",(609) 659-4227,Family Practice,CA519707,2027-08-13,Synthetic-Directory
+34,Dr. David Williams,8390608648,"644 Wilson Ln, Chicago, CA 78178",(952) 948-1235,Orthopedics,CA260795,2025-11-23,Synthetic-Directory
+35,Dr. Jessica Jones,8722259907,"961 Wilson Ave, Houston, CA 23886",555-708-7548,Cardiology,CA706749,2027-10-18,Synthetic-Directory
+36,Dr. Maria Jones,1261595971,"818 Garcia Ln, Chicago, PA 51152",(428) 290-3491,Dermatology,CA591078,2026-11-05,Synthetic-Directory
+37,Dr. Jessica Davis,4112841430,"461 Williams Ln, Los Angeles, IL 53960",(831) 293-7207,Cardiology,CA787021,2027-12-18,Synthetic-Directory
+38,Dr. Robert Williams,3147757634,"599 Brown Rd, Houston, PA 83856",(836) 542-1194,Cardiology,CA845257,2025-03-02,Synthetic-Directory
+39,Dr. Emily Williams,2813511220,"141 Wilson Ave, Philadelphia, PA 22810",555-108-3341,Internal Medicine,CA450399,2025-11-05,Synthetic-Directory
+40,Dr. Emily Wilson,6870919102,"118 Jones Ln, Phoenix, TX 32408",(744) 880-9354,Orthopedics,CA975801,2026-12-26,Synthetic-Directory
+41,Dr. Andrew Smith,4345775820,"143 Miller Pkwy, Los Angeles, NY 75139",(360) 491-4214,Dermatology,CA771042,2027-11-29,Synthetic-Directory
+42,Dr. David Brown,3221463457,"546 Williams Ln, New York, AZ 15104",(134) 971-2861,Cardiology,CA471251,2025-02-07,Synthetic-Directory
+43,Dr. Sarah Williams,412399065,"477 Brown St, Phoenix, PA 95723",(258) 747-2206,,CA360582,2027-09-23,Synthetic-Directory
+44,Dr. Andrew Johnson,2360203074,"376 Garcia Ave, Phoenix, PA 92622",555-428-7225,Family Practice,CA539491,2027-02-10,Synthetic-Directory
+45,Dr. William Johnson,6857515773,"863 Williams Ln, New York, IL 19120",555-106-1701,Dermatology,CA988795,2027-08-22,Synthetic-Directory
+46,Dr. Emily Brown,1592669481,"774 Wilson Ln, Philadelphia, CA 16362",555-133-3190,Internal Medicine,CA398756,2027-11-16,Synthetic-Directory
+47,Dr. David Smith,5134914404,"817 Smith Rd, Houston, IL 71101",555-420-4574,Orthopedics,CA223760,2028-01-24,Synthetic-Directory
+48,Dr. Jane Johnson,5390839205,"602 Rodriguez Ave, Los Angeles, CA 72324",(713) 720-6308,Family Practice,CA961618,2027-02-02,Synthetic-Directory
+49,Dr. Jessica Rodriguez,9160826651,"825 Garcia St, New York, TX 37489",(227) 136-6658,Cardiology,CA952484,2025-06-13,Synthetic-Directory
+50,Dr. Maria Garcia,7512051745,"770 Miller Ave, Philadelphia, NY 37661",(754) 954-1643,Orthopedics,CA922983,2026-12-14,Synthetic-Directory
+51,Dr. William Miller,3592990890,"887 Miller Pkwy, Phoenix, AZ 19877",555-852-7405,Pediatrics,CA494089,2025-08-28,Synthetic-Directory
+52,Dr. Emily Wilson,4172744639,"180 Garcia Ln, New York, AZ 53780",(273) 215-8892,Dermatology,CA936901,2027-03-09,Synthetic-Directory
+53,Dr. David Brown,3142232517,"501 Davis St, Phoenix, CA 26027",(920) 549-9469,,CA209724,2028-02-28,Synthetic-Directory
+54,Dr. Michael Jones,7297244676,"389 Davis Ln, Philadelphia, CA 10954",(719) 170-2229,,CA734836,2027-05-18,Synthetic-Directory
+55,Dr. Robert Wilson,7342957668,"221 Williams Ave, Phoenix, IL 53779",(279) 483-2385,Pediatrics,CA132410,2027-02-14,Synthetic-Directory
+56,Dr. Sarah Wilson,5008078322,"950 Jones Ave, Phoenix, IL 14919",(656) 854-7331,Orthopedics,CA807122,2025-05-20,Synthetic-Directory
+57,Dr. Emily Johnson,4372783433,"628 Davis Pkwy, Los Angeles, CA 39665",555-451-3310,,CA503285,2025-07-29,Synthetic-Directory
+58,Dr. David Johnson,4780327655,"562 Rodriguez Pkwy, New York, AZ 71809",555-364-6987,Orthopedics,CA481123,2027-09-02,Synthetic-Directory
+59,Dr. Robert Wilson,8825442216,"535 Davis Rd, Phoenix, PA 41780",(190) 784-4848,Pediatrics,CA133331,2027-08-22,Synthetic-Directory
+60,Dr. Jane Garcia,9822878935,"548 Garcia Rd, Phoenix, PA 53649",555-482-8213,Cardiology,CA476286,2027-10-29,Synthetic-Directory
+61,Dr. Robert Davis,7103241659,"919 Rodriguez Pkwy, Phoenix, NY 28592",(158) 535-6443,,CA824503,2027-05-06,Synthetic-Directory
+62,Dr. Jessica Jones,2440355503,"232 Davis Ave, Los Angeles, CA 28469",(953) 619-5084,Pediatrics,CA735232,2027-07-13,Synthetic-Directory
+63,Dr. William Johnson,4191320041,"321 Rodriguez Rd, Philadelphia, CA 11918",(741) 454-3338,Family Practice,CA819277,2027-02-08,Synthetic-Directory
+64,Dr. David Garcia,5144742079,"654 Smith Ave, Phoenix, CA 66669",(556) 683-1680,,CA878319,2025-05-14,Synthetic-Directory
+65,Dr. Maria Johnson,982536876,"405 Williams Ave, Phoenix, TX 47770",555-302-4764,Dermatology,CA948138,2027-09-29,Synthetic-Directory
+66,Dr. Emily Miller,7734719893,"696 Miller Ln, Chicago, CA 72404",(282) 558-2086,Cardiology,CA346346,2027-07-14,Synthetic-Directory
+67,Dr. Emily Brown,5525179501,"903 Smith Pkwy, Chicago, NY 88129",555-303-4384,Cardiology,CA642144,2026-12-14,Synthetic-Directory
+68,Dr. Andrew Brown,3610806555,"521 Miller St, Los Angeles, NY 67979",(692) 863-1959,,CA187747,2027-07-29,Synthetic-Directory
+69,Dr. David Rodriguez,695603090,"590 Wilson Pkwy, Chicago, IL 80183",(490) 358-8628,Internal Medicine,CA662136,2027-01-26,Synthetic-Directory
+70,Dr. Emily Jones,1264060786,"294 Williams Pkwy, Chicago, IL 89437",555-398-7507,Dermatology,CA477651,2025-05-09,Synthetic-Directory
+71,Dr. William Brown,5034997357,"906 Jones Ln, Houston, TX 79957",(229) 837-7336,Internal Medicine,CA264190,2027-07-31,Synthetic-Directory
+72,Dr. David Williams,7406671725,"793 Williams Ave, Phoenix, CA 92258",(573) 988-3259,Dermatology,CA657428,2027-12-17,Synthetic-Directory
+73,Dr. William Miller,2787794971,"818 Jones Rd, New York, PA 39211",(794) 423-2109,Family Practice,CA541990,2026-12-11,Synthetic-Directory
+74,Dr. Jane Davis,2544570779,"766 Jones Ln, New York, AZ 35877",(572) 240-7891,Cardiology,CA343570,2026-09-12,Synthetic-Directory
+75,Dr. Maria Brown,5494466958,"587 Brown St, Phoenix, AZ 94228",555-893-4539,Dermatology,CA671684,2027-05-30,Synthetic-Directory
+76,Dr. Robert Rodriguez,9218495857,"849 Johnson Ave, Los Angeles, PA 36484",555-947-1777,Family Practice,CA661989,2028-01-14,Synthetic-Directory
+77,Dr. Maria Brown,8235310781,"748 Rodriguez St, New York, IL 62470",555-605-2257,Orthopedics,CA296684,2028-01-11,Synthetic-Directory
+78,Dr. Michael Rodriguez,1365643743,"574 Garcia Pkwy, Los Angeles, IL 85152",555-396-8741,Cardiology,CA840020,2025-07-30,Synthetic-Directory
+79,Dr. Robert Garcia,7733412628,"775 Johnson Rd, New York, CA 69705",555-781-1455,Dermatology,CA832227,2025-01-02,Synthetic-Directory
+80,Dr. Jessica Jones,1663931390,"820 Garcia Ave, Chicago, PA 81821",(739) 474-2408,Cardiology,CA682516,2028-03-08,Synthetic-Directory
+81,Dr. Maria Johnson,6068613667,"986 Williams Pkwy, Los Angeles, AZ 48157",(647) 397-5507,Dermatology,CA338236,2026-12-10,Synthetic-Directory
+82,Dr. Jessica Brown,7987767821,"570 Miller Ave, Los Angeles, TX 61299",(385) 500-6659,Family Practice,CA903765,2027-04-03,Synthetic-Directory
+83,Dr. Maria Jones,2181674012,"260 Garcia Ave, Philadelphia, IL 79528",(119) 415-2657,Family Practice,CA159505,2027-02-19,Synthetic-Directory
+84,Dr. David Jones,4290375714,"255 Johnson Ln, Philadelphia, AZ 41023",(665) 821-3099,Pediatrics,CA545154,2027-04-30,Synthetic-Directory
+85,Dr. David Miller,9350030979,"571 Rodriguez Rd, Chicago, CA 65450",(945) 432-5106,Orthopedics,CA831595,2027-06-17,Synthetic-Directory
+86,Dr. Maria Rodriguez,8841083435,"280 Brown Pkwy, Los Angeles, TX 61522",(985) 887-8902,Internal Medicine,CA145190,2026-09-29,Synthetic-Directory
+87,Dr. Andrew Miller,9645458566,"802 Wilson Ln, Houston, AZ 69847",555-377-7955,Dermatology,CA850812,2028-02-02,Synthetic-Directory
+88,Dr. Emily Brown,5659798268,"124 Miller St, Los Angeles, PA 49659",(769) 601-6100,Dermatology,CA921740,2025-06-17,Synthetic-Directory
+89,Dr. Michael Rodriguez,3330372847,"540 Williams Rd, Phoenix, PA 91471",555-336-9318,Internal Medicine,CA332522,2027-02-19,Synthetic-Directory
+90,Dr. Michael Rodriguez,9028868644,"315 Davis Ln, Los Angeles, NY 64606",(265) 361-7579,Orthopedics,CA974137,2027-08-31,Synthetic-Directory
+91,Dr. Robert Rodriguez,7228610623,"478 Williams Pkwy, Houston, IL 12565",(723) 992-3808,Family Practice,CA804195,2028-02-25,Synthetic-Directory
+92,Dr. Emily Johnson,422298015,"192 Garcia Ln, Phoenix, CA 50062",(111) 775-9950,Dermatology,CA974801,2027-02-07,Synthetic-Directory
+93,Dr. Andrew Miller,8450581250,"462 Garcia St, Houston, NY 22200",(655) 789-8331,Internal Medicine,CA139739,2025-10-20,Synthetic-Directory
+94,Dr. Maria Rodriguez,5546466829,"324 Williams Ave, Chicago, CA 92032",(806) 273-4786,Pediatrics,CA123994,2025-11-08,Synthetic-Directory
+95,Dr. Robert Miller,7197042043,"729 Johnson Ave, Houston, NY 65839",(406) 112-2214,Pediatrics,CA538140,2027-05-15,Synthetic-Directory
+96,Dr. Jessica Johnson,8118620956,"956 Wilson Ln, Philadelphia, NY 17294",(786) 639-9582,Family Practice,CA843574,2025-08-13,Synthetic-Directory
+97,Dr. Maria Smith,3919611530,"168 Johnson Rd, Phoenix, CA 33532",555-764-2962,Orthopedics,CA523576,2025-02-07,Synthetic-Directory
+98,Dr. Michael Williams,8910021539,"987 Brown Pkwy, Los Angeles, IL 47018",(497) 597-3818,Family Practice,CA616536,2028-02-27,Synthetic-Directory
+99,Dr. Emily Jones,6135203087,"183 Miller Ave, New York, NY 97170",(397) 980-1449,,CA285238,2025-04-06,Synthetic-Directory
+100,Dr. Sarah Smith,7400542018,"886 Smith Rd, Phoenix, NY 99731",(934) 256-3768,Orthopedics,CA538541,2026-10-13,Synthetic-Directory
+101,Dr. Robert Jones,6038815268,"288 Wilson St, Los Angeles, IL 19625",(406) 117-7946,Dermatology,CA554485,2026-11-02,Synthetic-Directory
+102,Dr. Maria Davis,1210917587,"533 Garcia St, Los Angeles, NY 18647",(260) 654-3425,Internal Medicine,CA911334,2025-07-12,Synthetic-Directory
+103,Dr. Jessica Rodriguez,6121878492,"159 Davis Pkwy, Philadelphia, AZ 33168",(323) 644-7175,Orthopedics,CA416134,2025-01-18,Synthetic-Directory
+104,Dr. William Wilson,3169937838,"491 Miller Ave, Los Angeles, NY 72704",(985) 129-6823,Cardiology,CA855256,2028-02-27,Synthetic-Directory
+105,Dr. Andrew Wilson,4163005957,"640 Johnson Rd, Houston, IL 26106",(393) 801-2572,Dermatology,CA481660,2027-07-28,Synthetic-Directory
+106,Dr. Sarah Garcia,8193743566,"696 Wilson Pkwy, New York, TX 12956",(760) 726-8677,Orthopedics,CA945144,2027-12-29,Synthetic-Directory
+107,Dr. Emily Garcia,1434844849,"448 Smith St, Phoenix, NY 47366",(762) 818-5511,,CA191730,2027-08-22,Synthetic-Directory
+108,Dr. David Rodriguez,9497861797,"929 Brown Ln, Philadelphia, NY 57468",(402) 590-8293,Cardiology,CA810211,2025-02-23,Synthetic-Directory
+109,Dr. Sarah Davis,9899831390,"738 Rodriguez Ave, Philadelphia, AZ 63539",(875) 853-5096,Pediatrics,CA129983,2027-11-29,Synthetic-Directory
+110,Dr. Robert Smith,1569932488,"726 Rodriguez Rd, Los Angeles, IL 73114",(801) 921-9561,Pediatrics,CA611049,2027-08-28,Synthetic-Directory
+111,Dr. William Jones,982022396,"663 Rodriguez Ln, Los Angeles, AZ 63956",(386) 202-2222,Internal Medicine,CA487029,2025-03-05,Synthetic-Directory
+112,Dr. Maria Garcia,8190694142,"415 Brown Rd, New York, TX 31505",555-733-2435,Dermatology,CA855367,2024-12-24,Synthetic-Directory
+113,Dr. Andrew Jones,107130310,"410 Garcia Pkwy, Los Angeles, TX 75938",555-992-4682,Pediatrics,CA213568,2027-09-06,Synthetic-Directory
+114,Dr. Maria Garcia,8349824811,"505 Wilson Rd, Los Angeles, TX 57605",(702) 615-4689,Cardiology,CA166281,2027-01-28,Synthetic-Directory
+115,Dr. Robert Williams,8347452462,"888 Miller Ln, Houston, AZ 30174",(892) 484-4792,,CA778089,2028-01-09,Synthetic-Directory
+116,Dr. Jessica Rodriguez,7434704808,"685 Jones Ave, Chicago, TX 45407",(909) 462-8675,Family Practice,CA133693,2028-02-23,Synthetic-Directory
+117,Dr. Robert Brown,7137594696,"477 Wilson Rd, Philadelphia, CA 63039",(179) 906-7066,Dermatology,CA288601,2027-04-06,Synthetic-Directory
+118,Dr. Michael Davis,9536042424,"166 Smith Rd, Los Angeles, NY 88893",(751) 809-5017,Cardiology,CA213647,2027-06-01,Synthetic-Directory
+119,Dr. Emily Brown,8669350326,"196 Wilson Pkwy, Phoenix, AZ 66241",(276) 168-8107,Orthopedics,CA591602,2027-11-09,Synthetic-Directory
+120,Dr. Maria Johnson,7723134054,"847 Jones St, Houston, CA 55252",555-662-6434,,CA904279,2028-02-08,Synthetic-Directory
+121,Dr. Emily Wilson,4590475712,"234 Jones Rd, Houston, IL 16882",(695) 809-7769,Dermatology,CA986088,2026-11-01,Synthetic-Directory
+122,Dr. Jane Johnson,6732345684,"692 Williams Ave, New York, NY 16944",(531) 816-4003,Family Practice,CA135800,2027-06-26,Synthetic-Directory
+123,Dr. Andrew Smith,2357756340,"916 Williams Pkwy, Los Angeles, IL 61813",(618) 954-3734,Cardiology,CA894448,2027-02-21,Synthetic-Directory
+124,Dr. Emily Garcia,3424348998,"952 Wilson Rd, Chicago, PA 38700",(877) 416-2818,Internal Medicine,CA661616,2027-09-02,Synthetic-Directory
+125,Dr. Maria Smith,3433794184,"164 Garcia St, Philadelphia, AZ 52518",(857) 800-3193,Cardiology,CA287384,2026-12-02,Synthetic-Directory
+126,Dr. Robert Miller,6549341725,"270 Garcia Rd, Phoenix, PA 85841",(768) 428-9499,Internal Medicine,CA342087,2027-03-10,Synthetic-Directory
+127,Dr. Maria Davis,9414389450,"197 Williams Ave, Chicago, IL 84942",(467) 970-4078,Pediatrics,CA945877,2028-01-22,Synthetic-Directory
+128,Dr. David Williams,9037182679,"589 Williams Pkwy, New York, AZ 23859",555-294-9074,Orthopedics,CA176031,2027-07-22,Synthetic-Directory
+129,Dr. Andrew Rodriguez,8583799722,"667 Jones Ave, Phoenix, PA 77101",(422) 830-8519,Family Practice,CA481897,2025-11-09,Synthetic-Directory
+130,Dr. Michael Jones,5954021042,"654 Brown Rd, New York, TX 29501",(168) 225-1289,Orthopedics,CA103678,2028-03-12,Synthetic-Directory
+131,Dr. William Jones,5559880230,"152 Davis Pkwy, Los Angeles, PA 88255",(902) 258-7375,Family Practice,CA614342,2027-01-05,Synthetic-Directory
+132,Dr. Michael Davis,4656715869,"990 Davis Pkwy, Philadelphia, PA 94647",(543) 564-2860,Dermatology,CA506701,2027-05-16,Synthetic-Directory
+133,Dr. Michael Davis,7796828658,"928 Rodriguez St, Los Angeles, PA 36527",(456) 854-4517,Family Practice,CA395047,2026-12-24,Synthetic-Directory
+134,Dr. David Johnson,6626802790,"294 Smith Pkwy, Chicago, AZ 32594",(464) 602-5982,Internal Medicine,CA343156,2025-05-09,Synthetic-Directory
+135,Dr. Robert Wilson,4244832514,"735 Johnson Rd, Phoenix, TX 67772",(297) 415-7858,Family Practice,CA166151,2026-12-19,Synthetic-Directory
+136,Dr. Jane Rodriguez,1195724878,"230 Jones Ave, Los Angeles, PA 29649",555-894-3698,Dermatology,CA128331,2027-02-10,Synthetic-Directory
+137,Dr. Maria Wilson,8445934103,"592 Smith Pkwy, Chicago, TX 55197",555-899-1767,Pediatrics,CA118461,2026-09-16,Synthetic-Directory
+138,Dr. David Johnson,8403080770,"961 Garcia St, Phoenix, AZ 16605",(890) 250-3482,Dermatology,CA367509,2028-01-01,Synthetic-Directory
+139,Dr. Robert Rodriguez,4660663943,"508 Garcia Ln, Houston, IL 87476",(947) 935-2680,Cardiology,CA627955,2027-06-22,Synthetic-Directory
+140,Dr. Emily Brown,6073345405,"686 Garcia Ln, Houston, PA 28470",(255) 661-8667,Dermatology,CA681895,2027-10-01,Synthetic-Directory
+141,Dr. Jane Brown,9081600401,"787 Brown St, Houston, PA 33798",(414) 877-4370,Family Practice,CA131243,2028-01-04,Synthetic-Directory
+142,Dr. Michael Brown,6944009049,"510 Johnson Rd, Philadelphia, AZ 91275",(385) 353-4016,Cardiology,CA873281,2028-03-08,Synthetic-Directory
+143,Dr. Robert Williams,8241293179,"969 Davis Rd, Philadelphia, TX 81308",(309) 823-3912,Dermatology,CA316499,2025-01-14,Synthetic-Directory
+144,Dr. William Williams,1475658002,"320 Wilson Ln, Chicago, IL 98073",(542) 476-1031,Orthopedics,CA671080,2027-01-25,Synthetic-Directory
+145,Dr. Michael Johnson,3249523716,"605 Brown Pkwy, Philadelphia, NY 22106",(901) 691-2335,Pediatrics,CA661286,2026-10-18,Synthetic-Directory
+146,Dr. Maria Johnson,5051957983,"229 Wilson Ln, Philadelphia, CA 67661",(597) 213-7912,Internal Medicine,CA318772,2027-12-02,Synthetic-Directory
+147,Dr. William Williams,2159613123,"596 Wilson Ave, Philadelphia, IL 39386",555-341-4144,Orthopedics,CA475556,2027-10-17,Synthetic-Directory
+148,Dr. Robert Wilson,2613662094,"102 Williams Ln, New York, PA 76025",(997) 926-1347,Internal Medicine,CA637219,2027-06-18,Synthetic-Directory
+149,Dr. Jessica Johnson,6274588891,"712 Davis Ave, New York, CA 87301",555-277-5016,Dermatology,CA830459,2027-09-19,Synthetic-Directory
+150,Dr. Emily Smith,260270755,"405 Garcia St, New York, IL 87247",(374) 104-9020,Internal Medicine,CA362157,2027-08-06,Synthetic-Directory
+151,Dr. William Wilson,2820826648,"676 Davis St, Los Angeles, IL 38698",(714) 642-2303,,CA127475,2027-04-09,Synthetic-Directory
+152,Dr. Jane Williams,1320507616,"791 Johnson Ave, Houston, IL 73302",555-729-5567,Cardiology,CA624225,2027-04-04,Synthetic-Directory
+153,Dr. Robert Smith,7900232905,"979 Jones Pkwy, Philadelphia, PA 93244",(475) 638-9734,Internal Medicine,CA300132,2027-08-05,Synthetic-Directory
+154,Dr. David Garcia,6866170118,"603 Smith Rd, Houston, PA 58046",(275) 802-2244,Family Practice,CA824335,2025-11-29,Synthetic-Directory
+155,Dr. Jane Miller,1976659602,"317 Johnson Rd, New York, AZ 71624",(849) 586-9302,Cardiology,CA656049,2026-10-01,Synthetic-Directory
+156,Dr. Andrew Smith,9758076220,"822 Rodriguez Pkwy, Chicago, CA 91312",(732) 643-7773,Cardiology,CA938212,2027-07-04,Synthetic-Directory
+157,Dr. Maria Rodriguez,5820875866,"173 Rodriguez St, Houston, TX 63740",(286) 705-5882,Pediatrics,CA451342,2027-08-14,Synthetic-Directory
+158,Dr. Jane Miller,1868602896,"965 Williams St, Phoenix, CA 35971",(229) 940-1795,Dermatology,CA982037,2025-09-27,Synthetic-Directory
+159,Dr. Robert Jones,7230616016,"774 Williams Pkwy, Philadelphia, NY 57715",(280) 676-8731,,CA199048,2027-02-14,Synthetic-Directory
+160,Dr. David Johnson,9287935618,"521 Jones Pkwy, New York, TX 64288",(949) 446-6023,Internal Medicine,CA480000,2025-11-27,Synthetic-Directory
+161,Dr. Jessica Miller,439529481,"133 Miller Pkwy, Philadelphia, IL 67611",(280) 317-4721,Orthopedics,CA621590,2027-01-11,Synthetic-Directory
+162,Dr. Sarah Johnson,122487426,"436 Jones Ave, Chicago, PA 19974",(645) 712-8580,Orthopedics,CA755813,2028-03-13,Synthetic-Directory
+163,Dr. Michael Davis,1025999298,"209 Williams Ln, Phoenix, CA 26700",(968) 332-5318,Family Practice,CA818508,2027-05-27,Synthetic-Directory
+164,Dr. Michael Wilson,4206597663,"351 Miller Rd, Chicago, TX 68560",(483) 134-2175,,CA426417,2027-01-09,Synthetic-Directory
+165,Dr. Jessica Wilson,9387659335,"110 Smith Ln, New York, CA 47432",(580) 294-6296,Internal Medicine,CA187125,2027-02-01,Synthetic-Directory
+166,Dr. Andrew Williams,3531484583,"305 Smith Ln, Philadelphia, TX 23533",(253) 196-8864,Cardiology,CA750344,2025-03-02,Synthetic-Directory
+167,Dr. Andrew Miller,6371850126,"738 Brown Ave, Chicago, AZ 80368",(846) 997-7626,Cardiology,CA176680,2025-09-10,Synthetic-Directory
+168,Dr. Jane Jones,9842579094,"800 Davis Ln, New York, AZ 83562",(250) 871-8920,Family Practice,CA270895,2027-11-15,Synthetic-Directory
+169,Dr. Robert Jones,2555408260,"166 Jones Pkwy, New York, CA 36068",(218) 863-7892,Family Practice,CA451760,2027-09-30,Synthetic-Directory
+170,Dr. Emily Rodriguez,9636671104,"405 Johnson Rd, Chicago, TX 85188",(374) 218-3629,Orthopedics,CA387147,2026-11-09,Synthetic-Directory
+171,Dr. Michael Garcia,5574049912,"308 Rodriguez Pkwy, Houston, CA 77594",(907) 149-2010,Pediatrics,CA772635,2025-02-01,Synthetic-Directory
+172,Dr. William Wilson,6885061062,"555 Garcia Ave, Chicago, IL 65210",555-330-9204,,CA790630,2027-08-23,Synthetic-Directory
+173,Dr. Andrew Brown,9287292967,"349 Davis Pkwy, Philadelphia, CA 30234",(809) 581-1161,Dermatology,CA869864,2028-01-30,Synthetic-Directory
+174,Dr. Emily Jones,1221938892,"919 Davis St, Phoenix, TX 39224",(722) 396-8387,,CA789438,2026-11-30,Synthetic-Directory
+175,Dr. Robert Brown,5225520045,"669 Davis Ln, Houston, PA 46528",(140) 759-5177,,CA767725,2025-08-26,Synthetic-Directory
+176,Dr. David Miller,4022061521,"606 Smith Pkwy, Phoenix, NY 45387",555-264-7093,Pediatrics,CA801991,2025-01-16,Synthetic-Directory
+177,Dr. Emily Wilson,4425129135,"589 Garcia Rd, Los Angeles, AZ 40523",(586) 837-7025,Cardiology,CA534161,2025-01-19,Synthetic-Directory
+178,Dr. Michael Davis,4489471226,"366 Miller Ave, Chicago, PA 38591",(303) 190-1035,Pediatrics,CA224753,2025-01-30,Synthetic-Directory
+179,Dr. Emily Smith,7002236140,"134 Wilson Rd, Phoenix, AZ 60765",(648) 564-4497,Dermatology,CA368257,2025-11-24,Synthetic-Directory
+180,Dr. Andrew Rodriguez,2720694671,"271 Smith Ave, Phoenix, NY 86787",(202) 623-6703,Cardiology,CA555991,2028-03-10,Synthetic-Directory
+181,Dr. David Garcia,5279466062,"423 Williams Pkwy, Los Angeles, PA 12589",555-144-1042,,CA270384,2028-03-02,Synthetic-Directory
+182,Dr. Maria Johnson,8502499535,"554 Miller Rd, Chicago, CA 59139",(237) 577-1987,Family Practice,CA520612,2028-03-09,Synthetic-Directory
+183,Dr. Maria Miller,1848135332,"989 Rodriguez Pkwy, New York, IL 60834",(329) 644-7743,Dermatology,CA644221,2025-02-19,Synthetic-Directory
+184,Dr. Jane Davis,464876284,"969 Miller St, Chicago, PA 24397",(204) 815-5050,Cardiology,CA190176,2024-12-29,Synthetic-Directory
+185,Dr. William Wilson,6380583502,"170 Wilson Rd, Chicago, TX 29929",(195) 921-8471,Dermatology,CA748120,2027-07-20,Synthetic-Directory
+186,Dr. Jessica Brown,4720497313,"458 Miller Ln, Philadelphia, PA 67724",555-995-7554,Pediatrics,CA284909,2027-08-18,Synthetic-Directory
+187,Dr. Jane Brown,5433224727,"519 Davis Ln, Los Angeles, IL 82018",(698) 794-6138,Orthopedics,CA385851,2027-01-31,Synthetic-Directory
+188,Dr. David Garcia,5818300386,"105 Williams Pkwy, New York, CA 21594",(119) 585-7486,Orthopedics,CA731848,2026-10-13,Synthetic-Directory
+189,Dr. Robert Wilson,1988380694,"472 Davis Rd, Chicago, IL 80988",(493) 892-1926,Dermatology,CA102126,2025-11-17,Synthetic-Directory
+190,Dr. Jane Miller,7262284501,"629 Wilson St, New York, TX 35117",(755) 783-4244,Cardiology,CA972321,2025-03-24,Synthetic-Directory
+191,Dr. Robert Wilson,9376623810,"224 Rodriguez Pkwy, New York, PA 63459",(665) 111-5653,Cardiology,CA115926,2027-05-12,Synthetic-Directory
+192,Dr. Emily Johnson,6797867988,"674 Davis St, Los Angeles, TX 42236",555-260-8521,Pediatrics,CA251262,2025-09-04,Synthetic-Directory
+193,Dr. Emily Wilson,4214305154,"649 Rodriguez St, New York, TX 69757",(429) 732-7645,Family Practice,CA179726,2026-09-29,Synthetic-Directory
+194,Dr. Sarah Johnson,7652416069,"229 Davis Ln, Phoenix, TX 86797",(675) 883-3554,Pediatrics,CA729754,2028-02-17,Synthetic-Directory
+195,Dr. Jane Davis,103178946,"610 Smith Pkwy, Philadelphia, NY 61877",(498) 215-8471,Cardiology,CA633515,2025-12-08,Synthetic-Directory
+196,Dr. Jane Davis,5991935240,"739 Williams Ave, Phoenix, NY 89461",(610) 276-6023,Dermatology,CA176179,2027-07-27,Synthetic-Directory
+197,Dr. Andrew Davis,5368833332,"846 Miller Rd, Phoenix, CA 26409",(610) 659-7311,Pediatrics,CA820176,2027-01-20,Synthetic-Directory
+198,Dr. Andrew Wilson,6805713955,"623 Williams Rd, Philadelphia, CA 70130",(559) 233-5061,Dermatology,CA383185,2025-06-09,Synthetic-Directory
+199,Dr. Jane Wilson,4679475752,"676 Rodriguez Ave, New York, CA 32232",(752) 934-2833,Orthopedics,CA904452,2027-02-02,Synthetic-Directory
+200,Dr. Jessica Smith,8128424660,"452 Williams St, Philadelphia, PA 45614",555-404-2520,Cardiology,CA118992,2025-06-12,Synthetic-Directory
